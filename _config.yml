@@ -1,12 +1,13 @@
-# Build settings
+#Build settings
+#coding:utf8
 gems:
   - jemoji
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "꼬꼬닥"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   이 누추한 곳에 어쩐일로...
 
 email: jg9502@naver.com
 #blog logo
